@@ -19,10 +19,10 @@ A clean and modern **"Coming Soon" landing page** for a fashion brand with a sle
 
 ## 🚀 Live Demo
 
-[**View Live Demo**]() 
+[**View Live Demo**](# https://mansityagi548.github.io/base-apparel-coming-soon/) 
 
 
-![Live Preview]() 
+![Live Preview](./preview/coming-soon.png) 
 
 ## 🛠️ Technologies Used
 
